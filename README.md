@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
 ## Stack
@@ -47,17 +48,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
