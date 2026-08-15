@@ -34,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+| [0319-bulb-switcher](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0319-bulb-switcher) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
