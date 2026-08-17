@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -99,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
