@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -69,4 +70,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
