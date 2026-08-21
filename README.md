@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
