@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0860-lemonade-change) |
