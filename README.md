@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
