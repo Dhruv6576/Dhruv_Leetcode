@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
