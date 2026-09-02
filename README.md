@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
 | [0319-bulb-switcher](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0319-bulb-switcher) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
