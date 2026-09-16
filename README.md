@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
