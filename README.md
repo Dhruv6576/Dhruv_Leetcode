@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
 | [0319-bulb-switcher](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0319-bulb-switcher) |
+| [2652-sum-multiples](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2652-sum-multiples) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
