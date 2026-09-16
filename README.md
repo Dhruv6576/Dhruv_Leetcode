@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
