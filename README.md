@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0143-reorder-list) |
 | [0622-design-circular-queue](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0622-design-circular-queue) |
 ## Math
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2236-root-equals-sum-of-children) |
