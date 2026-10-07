@@ -14,9 +14,9 @@ class Solution {
         if (root == NULL)
             return;
 
-        postorder(root->left, v);   // Left
-        postorder(root->right, v);  // Right
-        v.push_back(root->val);     // Root
+        postorder(root->left, v);   
+        postorder(root->right, v);  
+        v.push_back(root->val);     
     }
 
 public:
