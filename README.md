@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0319-bulb-switcher) |
 | [2652-sum-multiples](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/2652-sum-multiples) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0162-find-peak-element) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
