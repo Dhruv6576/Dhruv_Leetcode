@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0057-insert-interval) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
