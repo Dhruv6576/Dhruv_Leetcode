@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
