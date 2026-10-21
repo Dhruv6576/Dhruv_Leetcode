@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
