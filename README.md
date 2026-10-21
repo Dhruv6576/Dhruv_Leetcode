@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/0455-assign-cookies) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv6576/Dhruv_Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
